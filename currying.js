@@ -17,4 +17,4 @@ function curry(fn){
 }
 
 const currriedSUM = curry(sum)
-console.log(currriedSUM(2)(3)(5))
+console.log(currriedSUM(2)(3)(5)) 
